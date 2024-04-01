@@ -1,6 +1,3 @@
-### I'm Julian 👤
-
-
 📍 I live in Germany
 
 🎓 I'm studying computer science at `[REDACTED]` University
