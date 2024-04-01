@@ -6,4 +6,4 @@
 
 🌱 Or I'm working on one of many side projects, currently [fanpage.fm](https://fanpage.fm)
 
-📧 You can contact me here: [julian@keppler.dev](mailto:julian@keppler.dev)
+📧 Contact me here: [julian@keppler.dev](mailto:julian@keppler.dev)
